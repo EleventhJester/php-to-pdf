@@ -1,0 +1,12 @@
+{
+    "name": "leero/php-to-pdf",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "11",
+            "email": "leeroycunha@gmail.com"
+        }
+    ]
+}
